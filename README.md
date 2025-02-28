@@ -30,7 +30,7 @@ This project implements a basic cryptocurrency blockchain system using Java. It 
 
 2. Clone the repository:
    ```sh
-   git clone https://github.com/ellisisaac/cs-blockchain-noobchain.git
+   git clone https://github.com/elilat/cs-blockchain-noobchain.git
    cd cs-blockchain-noobchain
    ```
 
@@ -88,6 +88,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Special thanks to Dr. Khaleel Mershad of the Computer Science department at the Lebanese American University (LAU) for his guidance throughout this project.
 
 ## Author
-Ellis Isaac @ellisisaac
+Elias Isaac @elilat
 
 For detailed information about the project's architecture and implementation, please refer to the DOCUMENTATION.md file.
